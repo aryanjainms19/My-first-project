@@ -112,7 +112,6 @@ int main()
     {
         cout << j << " ";
     }
-    cout << endl;
    }
    
     // floyd triangle pattern
